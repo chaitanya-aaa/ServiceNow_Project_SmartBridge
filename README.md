@@ -157,18 +157,6 @@ You can watch the complete working demonstration of the project here:
 
 ---
 
-## 📂 Project Repository Navigation
-
-To access the demo video directly from this README:
-
-1️⃣ Go to the repository main page  
-2️⃣ Open the **`Video Demo`** folder  
-3️⃣ Click on **`ServiceNow_Project_Demo.mp4`**
-
-Or simply click the link above to navigate directly.
-
----
-
 ## 📄 License
 
 This project is developed as part of an academic internship under SmartInternz APSCHE Long Term Internship Program.
