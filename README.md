@@ -138,12 +138,6 @@ Structured employee-linked data for better insights and reporting.
 
 ---
 
-## 📌 Conclusion
-
-This project successfully demonstrates how to import, structure, and secure data in ServiceNow using industry-standard practices. By integrating data transformation, dot-walking, and ACL-based security, we ensured both **data integrity and controlled accessibility**, making the system reliable and secure for enterprise-level usage.
-
----
-
 ## 🎥 Project Video Demonstration
 
 You can watch the complete working demonstration of the project here:
@@ -154,6 +148,12 @@ You can watch the complete working demonstration of the project here:
 > 📌 Note:
 > - The demo video is uploaded inside the `Video Demo` folder of this repository.
 > - If the video does not preview directly on GitHub, click **Download** to view it locally.
+
+---
+
+## 📌 Conclusion
+
+This project successfully demonstrates how to import, structure, and secure data in ServiceNow using industry-standard practices. By integrating data transformation, dot-walking, and ACL-based security, we ensured both **data integrity and controlled accessibility**, making the system reliable and secure for enterprise-level usage.
 
 ---
 
