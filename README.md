@@ -149,10 +149,10 @@ This project successfully demonstrates how to import, structure, and secure data
 You can watch the complete working demonstration of the project here:
 
 🔗 **Video Demo Link:**  
-[▶ Watch Demo](./demo/ServiceNow_Project_Demo.mp4)
+[▶ Watch Demo](./Video Demo)
 
 > 📌 Note:
-> - The demo video is uploaded inside the `demo` folder of this repository.
+> - The demo video is uploaded inside the `Video Demo` folder of this repository.
 > - If the video does not preview directly on GitHub, click **Download** to view it locally.
 
 ---
@@ -162,7 +162,7 @@ You can watch the complete working demonstration of the project here:
 To access the demo video directly from this README:
 
 1️⃣ Go to the repository main page  
-2️⃣ Open the **`demo`** folder  
+2️⃣ Open the **`Video Demo`** folder  
 3️⃣ Click on **`ServiceNow_Project_Demo.mp4`**
 
 Or simply click the link above to navigate directly.
