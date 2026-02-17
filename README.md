@@ -144,6 +144,31 @@ This project successfully demonstrates how to import, structure, and secure data
 
 ---
 
+## 🎥 Project Video Demonstration
+
+You can watch the complete working demonstration of the project here:
+
+🔗 **Video Demo Link:**  
+[▶ Watch Demo](./demo/ServiceNow_Project_Demo.mp4)
+
+> 📌 Note:
+> - The demo video is uploaded inside the `demo` folder of this repository.
+> - If the video does not preview directly on GitHub, click **Download** to view it locally.
+
+---
+
+## 📂 Project Repository Navigation
+
+To access the demo video directly from this README:
+
+1️⃣ Go to the repository main page  
+2️⃣ Open the **`demo`** folder  
+3️⃣ Click on **`ServiceNow_Project_Demo.mp4`**
+
+Or simply click the link above to navigate directly.
+
+---
+
 ## 📄 License
 
 This project is developed as part of an academic internship under SmartInternz APSCHE Long Term Internship Program.
