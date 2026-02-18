@@ -143,7 +143,7 @@ Structured employee-linked data for better insights and reporting.
 You can watch the working demonstration of the project here:
 
 🔗 **Video Demo Link:**  
-[▶ Watch Demo](./Video%20Demo/ServiceNow_Project_Importing%20%26%20Securing%20Data%20in%20ServiceNow_Chaitanya_Barappadi.mp4)
+[▶ Watch Demo](https://drive.google.com/file/d/1FcdfPPie89HKbyMCni6rKDTpyVAZaV9l/view?usp=drive_link)
 
 > 📌 Note:
 > - The demo video is uploaded inside the `Video Demo` folder of this repository.
