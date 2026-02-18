@@ -146,7 +146,7 @@ You can watch the working demonstration of the project here:
 [▶ Watch Demo](https://drive.google.com/file/d/1FcdfPPie89HKbyMCni6rKDTpyVAZaV9l/view?usp=drive_link)
 
 > 📌 Note:
-> - The demo video is uploaded inside the `Video Demo` folder of this repository.
+> - The demo video is uploaded inside the `Video Demo.` folder of this repository.
 > - If the video does not preview directly on GitHub, click **Download** to view it locally.
 
 ---
